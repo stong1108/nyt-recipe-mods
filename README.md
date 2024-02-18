@@ -24,5 +24,5 @@ Suggested improvements for Microwave Salmon Recipe
 
 ## Python packages
 - `openai`
-- `beautifulsoup4
+- `beautifulsoup4`
 - `requests`
