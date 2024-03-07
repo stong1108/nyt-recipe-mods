@@ -38,7 +38,7 @@ def soup_from_url(recipe_url):
     if r.status_code != 200:
         raise ValueError(f'Bad status code: {r.status_code}')
     
-    soup = BeautifulSoup(r.content, features='lxml')
+    soup = BeautifulSoup(r.content)
     return soup
 
 def extract_soup_content(soup):
