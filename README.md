@@ -2,7 +2,7 @@
 Weekend project that takes a link to a new New York Times Cooking recipe link and outputs the most helpful recipe modifications submitted by users.
 
 ![app screenshot](app_screenshot.png)
-[Streamlit App](https://nyt-recipe-mods.streamlit.app/)
+[Streamlit App](https://borkborkbork.streamlit.app/)
 
 ## Demo
 Input:
